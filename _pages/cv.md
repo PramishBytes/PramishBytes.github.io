@@ -58,7 +58,7 @@ Publications
   {% endfor %}</ul>
 
 <div style="margin-bottom: 20px;">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" style="text-decoration: none; display: inline-block; padding: 8px 16px; background-color: #7a8288; color: white; border-radius: 4px;">
+  <a href="{{ base_path }}/files/resume.pdf" class="btn btn--primary" style="text-decoration: none; display: inline-block; padding: 8px 16px; background-color: #7a8288; color: white; border-radius: 4px;">
     <i class="fa fa-download"></i> Download CV (PDF)
   </a>
 </div>

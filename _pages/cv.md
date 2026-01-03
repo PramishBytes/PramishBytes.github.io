@@ -11,54 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Computer Engineering, Pokhara University, 2021 - 2025
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Present: Freelance
+  * Duties included: AI solutions development, Full-stack web applications, Computer vision models, NLP text summarization, Online proctoring systems, Recommendation engines
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2022 - August 2024: Participating Member
+  * GCES IT Club
+  * Duties included: Attended workshops, Collaborated on AI projects, Participated in club activities and technical events
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * JavaScript 
+  * SQL
+  * C/C++
+
+* Machine Learning & AI
+  * Natural Language Processing
+  * Computer Vision
+  * Large Language Models
+  * Deep Learning
+  * PyTorch
+  * scikit-learn
+  * Model Deployment
+  * Transformers (BART, Hugging Face)
+
+* Backend Development
+  * Django
+  * Flask
+  * FastAPI
+
+* Cloud & DevOps
+  * Cloud Computing
+  * CI/CD Pipelines
+
+
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+<div style="margin-bottom: 20px;">
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" style="text-decoration: none; display: inline-block; padding: 8px 16px; background-color: #7a8288; color: white; border-radius: 4px;">
+    <i class="fa fa-download"></i> Download CV (PDF)
+  </a>
+</div>

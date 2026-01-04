@@ -1,71 +1,86 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Mohan Bikram KC",
+    "email": "kcmohan64@gmail.com",
+    "phone": "+977 9866020310",
+    "website": "https://kcmohan.info.np/",
+    "summary": "Computer Engineering student at Gandaki College of Engineering and Science with hands-on experience in Python development, backend services, and AI-driven solutions. Specialized in Django, Celery, RESTful APIs, and machine learning applications.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "",
+      "countryCode": "NP",
+      "region": "Nepal"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "kayceem",
+        "url": "https://github.com/kayceem"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "mohan-kc",
+        "url": "https://linkedin.com/in/mohan-kc/"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Bichitras Group",
+      "position": "Junior Machine Learning Engineer",
+      "website": "https://bichitras.com/",
+      "startDate": "2024-07-01",
+      "endDate": "2024-08-31",
+      "summary": "Developed modules for live engagement and performance analysis. Developed chat analysis and spam detection models for real-time live-streaming moderation. Designed backend APIs and streaming logic for the live streaming app.",
+      "highlights": [
+          "Developed modules for live engagement and performance analysis",
+          "Developed chat analysis and spam detection models for real-time live-streaming moderation",
+          "Designed backend APIs and streaming logic for the live streaming apps"
+      ]
+    },
+    {
+      "company": "Idea2MVP",
+      "position": "Python Internship",
+      "website": "https://ramailo.tech/",
+      "startDate": "2024-02-01",
+      "endDate": "2024-05-31",
+      "summary": "Contributed to backend development using Python frameworks. Integrated Generative AI capabilities into existing product pipelines. Developed automation scripts to streamline internal workflow.",
+      "highlights": [
+            "Contributed to backend development using Python frameworks",
+            "Integrated Generative AI capabilities into existing product pipelines",
+            "Developed automation scripts to streamline internal workflows"
+
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Gandaki College of Engineering and Science",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2021",
+      "endDate": "2025",
+      "gpa": "3.64",
+      "courses": [
+        "Artificial Intelligence",
+        "Natural Language Processing",
+        "Simulation and Modeling",
+        "Data Mining",
+        "Digital Signal Processing and Analysis",
+        "Cloud Computing",
+        "Theory of Computing",
+        "Probability",
+        "Numerical Methods"
+      ]
     }
   ],
   "skills": [],
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": []
-   
-    }
-  ]
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }

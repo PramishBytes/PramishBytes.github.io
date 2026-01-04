@@ -47,4 +47,4 @@ A comprehensive college management platform built with Django that streamlines a
 - Easy access to information
 - Automated report generation
 
-[View on GitHub](https://github.com/icarus-20s/College_Management)
+[View on GitHub](https://github.com/PramishBytes/Gces-App.git)

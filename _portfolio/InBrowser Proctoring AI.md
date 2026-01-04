@@ -37,4 +37,4 @@ A comprehensive AI-powered exam monitoring solution designed to ensure academic 
 - Certification programs
 - Corporate training assessments
 
-[View on GitHub](https://github.com/icarus-20s/eproctor)
+[View on GitHub](https://github.com/PramishBytes/proctorai.git)

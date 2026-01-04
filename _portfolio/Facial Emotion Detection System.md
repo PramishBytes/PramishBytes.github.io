@@ -34,4 +34,4 @@ A real-time emotion recognition system that detects and classifies human emotion
 - Mental health monitoring
 - User experience research
 
-[View on GitHub](https://github.com/icarus-20s/emotion_app)
+[View on GitHub](https://github.com/PramishBytes/emotion_app.git)

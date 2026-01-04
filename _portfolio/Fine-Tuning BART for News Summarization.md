@@ -31,4 +31,4 @@ An abstractive text summarization system built by fine-tuning the BART (Bidirect
 - Automated report generation
 - Quick information extraction from long articles
 
-[View on GitHub](https://github.com/icarus-20s/)
+[View on GitHub](https://github.com/PramishBytes/BART_News_Summarization.git)

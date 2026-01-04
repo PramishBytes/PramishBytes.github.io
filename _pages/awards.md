@@ -15,7 +15,6 @@ Awarded first place in the coding competition held during the IT Expo at GCES, d
 ---
 
 ### Project Showcase
-* **Facial Emotion Detection System** 
- Real-time emotion recognition using DeepFace library. Presented at IT Expo.
+
 
 ---

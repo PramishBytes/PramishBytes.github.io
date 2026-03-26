@@ -1,7 +1,7 @@
 // Typewriter Effect
 document.addEventListener("DOMContentLoaded", () => {
   const typewriter = document.querySelector(".typewriter");
-  const words = ["Web Developer", "Graphic Designer", "Email Marketing Specialist", "UI/UX Designer"];
+  const words = ["Flutter Developer", "Machine Learning", "Python Developer"];
   let wordIndex = 0;
   let charIndex = 0;
   let isDeleting = false;
